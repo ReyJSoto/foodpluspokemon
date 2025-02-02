@@ -1,0 +1,38 @@
+html {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: lightgrey;
+    color: black;
+}
+img {
+    width: 200px;
+}
+li {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+div.foods {
+    display: inline-block;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+div.foodsection {
+    background: rgb(249, 109, 9);
+    margin:0 -8px; 
+    padding:0 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+div.pokemonsection {
+    background: aqua;
+    color: black;
+    margin:0 -8px; 
+    padding:0 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+div.pokemon {
+    display: inline-block;
+    margin-left: 4px;
+    margin-right: 4px;
+}
